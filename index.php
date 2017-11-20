@@ -79,9 +79,9 @@
                             followers.</b></p>
 
                     <p class="center-block download-buttons">
-                        <a href="http://usman.it/free-responsive-admin-template/" class="btn btn-primary btn-lg"><i
-                                class="glyphicon glyphicon-chevron-left glyphicon-white"></i> Back to article</a>
-                        <a href="http://usman.it/free-responsive-admin-template/" class="btn btn-default btn-lg"><i
+                        <a href="./appointment.php" class="btn btn-primary btn-lg"><i
+                                class="glyphicon glyphicon-chevron-left glyphicon-white"></i> SEE ALL APPOINTMENTS</a>
+                        <a href="" class="btn btn-default btn-lg"><i
                                 class="glyphicon glyphicon-download-alt"></i> Download Page</a>
                     </p>
                 </div>
